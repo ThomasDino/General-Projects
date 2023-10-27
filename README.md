@@ -8,19 +8,17 @@
 Designed and developed a digital multi-threaded pizzeria order system that enables the simultaneous processing of multiple customer orders.
 
 <h2>Goal and requirements</h2>
-The primary goal of this code is to demonstrate synchronization between multiple threads when dealing with a common object
-Cook threads randomly cook a certain number of burgers and add them to the window. Server threads remove trays of burgers from the window and serve them to customers. The goal is to ensure that the number of burgers           cooked matches the number served, demonstrating that synchronization is working correctly.
+The primary goal of this code is to demonstrate synchronization between multiple threads when dealing with a common object.
+Cook threads randomly cook a certain number of burgers and add them to the window. Server threads remove trays of burgers from the window and serve them to customers. The goal is to ensure that the number of burgers       cooked matches the number served, demonstrating that synchronization is working correctly.
 
 
 <h2>Key learnings</h2>
 
-- Be 
-- clear
-- brief 
-- and 
-- concise
+- Thread Synchronization 
+- Shared Data Structures
+- Thread Interaction
 
-If project has been improved after submission, here is a good place to specify it.
+
 
 <h2>Installation</h2>
 
