@@ -5,11 +5,12 @@
 <br/>
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
-Context and progress go here
+Designed and developed a digital multi-threaded pizzeria order system that enables the simultaneous processing of multiple customer orders.
 
 <h2>Goal and requirements</h2>
+The primary goal of this code is to demonstrate synchronization between multiple threads when dealing with a common object
+Cook threads randomly cook a certain number of burgers and add them to the window. Server threads remove trays of burgers from the window and serve them to customers. The goal is to ensure that the number of burgers           cooked matches the number served, demonstrating that synchronization is working correctly.
 
-The idea behind first implementation. What is expected, what should be included, what should not be included.
 
 <h2>Key learnings</h2>
 
