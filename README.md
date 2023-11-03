@@ -1,7 +1,7 @@
 <div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
-<h1 align="center">Name</h1>
+<h1 align="center">Thomas Dinopoulos</h1>
 <p align="center"><strong>Description</strong>
-<br>Comment</p>
+<br>Burger restaurant implementation using threads for Operating Systems/Architecture CS371</p>
 <br/>
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
@@ -18,21 +18,14 @@ Cook threads randomly cook a certain number of burgers and add them to the windo
 - Shared Data Structures
 - Thread Interaction
 
-
-
 <h2>Installation</h2>
 
 1. Download this project as zip and extract it
 2. Import it in Android Studio
 3. Sync Gradle and run on your device/emulator
 
-Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun`</a> by <a href="https://github.com/cesarferreira" target="_blank">@CesarFerreira</a>
-
 <h2>Contributing</h2>
 Mention pull requests. Link to an example and/or put it down here
-
-<h2>Project status</h2>
-Insert here
 
 <h2>Credits</h2>
 
@@ -41,5 +34,3 @@ Insert here
 - Colors
 - Any material
 
-<h2>Copyright</h2>
-This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
