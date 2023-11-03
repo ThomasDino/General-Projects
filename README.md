@@ -24,13 +24,8 @@ Cook threads randomly cook a certain number of burgers and add them to the windo
 2. Import it in Android Studio
 3. Sync Gradle and run on your device/emulator
 
-<h2>Contributing</h2>
-Mention pull requests. Link to an example and/or put it down here
-
 <h2>Credits</h2>
 
-- Author: <a href="https://twitter.com/r4dixx" target="_blank">Amaël Sikel</a>
-- Illustrations
-- Colors
-- Any material
+- Author: Thomas Dinopoulos
+- Co-Author: Doosan Baik
 
